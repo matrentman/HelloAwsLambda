@@ -41,7 +41,7 @@ public class HelloTest {
 
         if (output != null) {
             System.out.println(output.toString());
-            assertEquals(output.getGreeting(), "Hello, World");
+            assertEquals(output.getGreeting(), "Hello, World!");
         }
     }
 }

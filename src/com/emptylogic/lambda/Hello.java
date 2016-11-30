@@ -9,7 +9,7 @@ public class Hello implements RequestHandler<HelloRequest, HelloResponse> {
 
     @Override
     public HelloResponse handleRequest(HelloRequest input, Context context) {
-        return new HelloResponse("Hello, " + input.getName());
+        return new HelloResponse("Hello, " + input.getName() + "!");
     }
 
 }
