@@ -1,3 +1,3 @@
 # HelloAwsLambda
 
-This is your basic HellWorld program, AWS Lambda style!
+This is your basic HelloWorld program, AWS Lambda style!
